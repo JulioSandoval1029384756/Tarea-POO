@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Tarea POO\Tarea POO\Tarea POO\bin\Debug\net8.0\Tarea POO.exe
+C:\Users\user\Desktop\Tarea POO\Tarea POO\Tarea POO\bin\Debug\net8.0\Tarea POO.deps.json
+C:\Users\user\Desktop\Tarea POO\Tarea POO\Tarea POO\bin\Debug\net8.0\Tarea POO.runtimeconfig.json
+C:\Users\user\Desktop\Tarea POO\Tarea POO\Tarea POO\bin\Debug\net8.0\Tarea POO.dll
+C:\Users\user\Desktop\Tarea POO\Tarea POO\Tarea POO\bin\Debug\net8.0\Tarea POO.pdb
+C:\Users\user\Desktop\Tarea POO\Tarea POO\Tarea POO\obj\Debug\net8.0\Tarea POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Tarea POO\Tarea POO\Tarea POO\obj\Debug\net8.0\Tarea POO.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Tarea POO\Tarea POO\Tarea POO\obj\Debug\net8.0\Tarea POO.AssemblyInfo.cs
+C:\Users\user\Desktop\Tarea POO\Tarea POO\Tarea POO\obj\Debug\net8.0\Tarea POO.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tarea POO\Tarea POO\Tarea POO\obj\Debug\net8.0\Tarea POO.dll
+C:\Users\user\Desktop\Tarea POO\Tarea POO\Tarea POO\obj\Debug\net8.0\refint\Tarea POO.dll
+C:\Users\user\Desktop\Tarea POO\Tarea POO\Tarea POO\obj\Debug\net8.0\Tarea POO.pdb
+C:\Users\user\Desktop\Tarea POO\Tarea POO\Tarea POO\obj\Debug\net8.0\Tarea POO.genruntimeconfig.cache
+C:\Users\user\Desktop\Tarea POO\Tarea POO\Tarea POO\obj\Debug\net8.0\ref\Tarea POO.dll
